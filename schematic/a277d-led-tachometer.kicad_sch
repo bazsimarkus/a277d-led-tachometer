@@ -4012,7 +4012,7 @@
     (property "Reference" "R11" (at 266.7 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 266.7 139.7 0)
+    (property "Value" "2k" (at 266.7 139.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "StockLib:R_1k_Axial_DIN0207" (at 262.382 138.43 90)
